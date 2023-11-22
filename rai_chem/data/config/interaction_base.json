@@ -1,0 +1,82 @@
+{
+  "HydrophobeCS-HydrophobeCS": {
+    "min": 3.2,
+    "max": 4.5
+  },
+  "HydrophobeCS-HydrophobeClBrI": {
+    "min": 3.2,
+    "max": 4.5
+  },
+  "HydrophobeCS-HydrophobeF": {
+    "min": 3.0,
+    "max": 3.9
+  },
+  "Aromatic-Aromatic": {
+    "face-to-face": {
+      "min": 3.4,
+      "max": 4.5,
+      "tolerance": 30
+    },
+    "edge-to-face": {
+      "min": 4.4,
+      "max": 5.5,
+      "tolerance": 30
+    }
+  },
+  "Aromatic-Amide": {
+    "face-to-face": {
+      "min": 3.4,
+      "max": 4.5,
+      "tolerance": 30
+    },
+    "edge-to-face": {
+      "min": 3.9,
+      "max": 5.0,
+      "tolerance": 30
+    }
+  },
+  "HDonor-HAcceptor": {
+    "min": 2.5,
+    "max": 3.9,
+    "D-H-A": 90,
+    "H-A-Y": 90
+  },
+  "WeakHDonor-HAcceptor": {
+    "min": 3.0,
+    "max": 3.6,
+    "D-H-A": 130,
+    "H-A-Y": 90
+  },
+  "ClBrI-HAcceptor": {
+    "min": 3.0,
+    "max": 4.0,
+    "D-X-A": 120,
+    "X-A-Y": 75
+  },
+  "Positive-Negative": {
+    "min": 3.4,
+    "max": 4.5
+  },
+  "Positive-Aromatic": {
+    "face-to-face": {
+      "min": 3.4,
+      "max": 4.5,
+      "tolerance": 40
+    }
+  },
+  "VDWClash": {
+    "fraction": 0.7
+  },
+  "HDonor-HDonor": {
+    "max": 3.4
+  },
+  "HAcceptor-HAcceptor": {
+    "max": 3.2
+  },
+  "Positive-Positive": {
+    "max": 5.2
+  },
+  "Negative-Negative": {
+    "max": 5.2
+  }
+}
