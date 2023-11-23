@@ -66,7 +66,7 @@ The scores in the output SDF file include:
 This package was created and updated as part of the following works within [RECEPTOR.AI](https://receptor.ai/):
 
 - Boosting performance of generative diffusion model for molecular docking by training on artificial binding pockets 
-  (To be added)
+  (DOI: [doi.org/10.1101/2023.11.22.568238](https://doi.org/10.1101/2023.11.22.568238))
   
 - 3DProtDTA: a deep learning model for drug-target affinity prediction based on residue-level protein graphs
   (DOI: [doi.org/10.1039/D3RA00281K](https://doi.org/10.1039/D3RA00281K))

@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - 'main'
+    paths:
+      - 'rai_chem/**'
+      - 'tests/**'
+      - 'requirements.txt'
 
 jobs:
   test-py:
